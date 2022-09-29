@@ -1,6 +1,15 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.7; // Versión del compilador de lenguaje Solidity.
 
+/*
+                   MEOW ?
+         /\_/\   /
+    ____/ o o \
+  /~____  =ø= /
+ (______)__m_m)
+ 
+*/
+
 // El ERC20 es un estándar para crear criptomonedas.
 // Un estándar, en programación, son las reglas que hay que seguir para hacer algo.
 
